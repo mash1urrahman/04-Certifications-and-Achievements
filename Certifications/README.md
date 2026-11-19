@@ -68,9 +68,6 @@ This repository documents my hands-on technical certifications, specialized work
 #### Key Competencies & Technical Stack
 * **Databases & Sequence Retrieval:** Extracting and formatting `FASTA`, `FASTQ`, and `GenBank` records across **NCBI**, **GenBank**, **UniProt**, **Ensembl**, and **RCSB PDB**.
 * **Alignment, Homology & Phylogenetics:** Performing `BLASTn/p/x` searches, Multiple Sequence Alignments (**Clustal Omega**, **MUSCLE**), conserved motif detection, and phylogenetic tree reconstruction (Neighbor-Joining, Maximum Likelihood) in **MEGA**.
-* **Sanger Sequencing Pipeline:**
-  $$\text{Chromatogram Inspection} \rightarrow \text{Phred Quality (Q20/Q30)} \rightarrow \text{End Trimming} \rightarrow \text{Forward/Reverse Consensus} \rightarrow \text{BLAST \& Variant Calling}$$
-* **Tools:** `Chromas`, `FinchTV`, `SnapGene Viewer`, `BioEdit`, `MEGA`, `PyMOL`, `UCSF ChimeraX`, `ExPASy`, `InterPro`.
 
 ---
 
